@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Ibiza Global Radio" tvg-logo="https://play-lh.googleusercontent.com/szKIi0fnZegEwJn_hV19kyD7A7lIK94nRE4whHQZMnxFvO6Qd58x_I97BAcFndWijXM" group-title="Radio",Ibiza Global Radio
+https://listenssl.ibizaglobalradio.com:8024/
+
+#EXTINF:-1 tvg-name="Ibiza Global radio Classics" tvg-logo="https://www.ibizabynight.net/wp-content/uploads/2017/12/ibiza-global-radio-2.png" group-title="Radio",Ibiza Global Radio Classics
+https://control.streaming-pro.com:8000/ibizaglobalclassics.mp3
+
+#EXTINF:-1 tvg-name="Pure Ibiza" tvg-logo="https://www.pureibizaradio.com/wp-content/uploads/2020/03/Recurso-2@4x-600x600.png" group-title="Radio",Pure Ibiza Radio
+https://pureibizaradio.streaming-pro.com:8024/stream.aac
+
+#EXTINF:-1 tvg-name="Tomorrowland One World Radio" tvg-logo="https://yt3.googleusercontent.com/0dcFuZffgyrazWHCdWU8-Nib0EQEdjhqsK6rzQL7_3p80xmTWAYF0huUY554RgmiFskHA8Qw3Q=s900-c-k-c0x00ffffff-no-rj" group-title="Radio",Tomorrowland One World Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL.mp3
+
+#EXTINF:-1 tvg-name="06AM Ibiza Underground" tvg-logo="https://cdn-radiotime-logos.tunein.com/s210530g.png" group-title="Radio",06AM Ibiza Underground
+https://streams.radio.co/sd1bcd1376/listen
+
+#EXTINF:-1 tvg-name="Ibiza Sonica" tvg-logo="https://i1.sndcdn.com/avatars-i3myEy4Zvs5eypmf-ryxMZg-t1080x1080.jpg" group-title="Radio",Ibiza Sonica
+https://ibizasonica.streaming-pro.com:8013/kaiboradio
+
+#EXTINF:-1 tvg-name="Cafe del Mar Radio" tvg-logo="https://cafedelmar.com/logo-cafedelmar-brand.png" group-title="Radio",Cafe del Mar Radio
+https://streams.radio.co/se1a320b47/listen
+
+#EXTINF:-1 tvg-name="Costa del Mar Chillout" tvg-logo="https://www.tunedradios.com/static/radio/8842/logo/b3a973e0db205aae310f32a4ba90346b.webp" group-title="Radio",Costa del Mar Chillout
+https://radio4.cdm-radio.com:18020/stream-mp3-Chill
