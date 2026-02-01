@@ -18,8 +18,17 @@ https://streams.radio.co/sd1bcd1376/listen
 #EXTINF:-1 tvg-name="Ibiza Sonica" tvg-logo="https://i1.sndcdn.com/avatars-i3myEy4Zvs5eypmf-ryxMZg-t1080x1080.jpg" group-title="Radio",Ibiza Sonica
 https://ibizasonica.streaming-pro.com:8013/kaiboradio
 
+#EXTINF:-1 tvg-name="DanceNova Radio" tvg-logo="https://deepnovaradio.com/wp-content/uploads/2025/06/dancenova-320.png" group-title="Radio",DanceNova Radio
+https://a3.asurahosting.com/listen/dance_house_hits/radio-192.mp3
+
+#EXTINF:-1 tvg-name="TranceNova Radio" tvg-logo="https://deepnovaradio.com/wp-content/uploads/2025/06/trancenova-320.png" group-title="Radio",TranceNova Radio
+https://a7.asurahosting.com:6940/radio-192.mp3
+
 #EXTINF:-1 tvg-name="Cafe del Mar Radio" tvg-logo="https://cafedelmar.com/logo-cafedelmar-brand.png" group-title="Radio",Cafe del Mar Radio
 https://streams.radio.co/se1a320b47/listen
 
 #EXTINF:-1 tvg-name="Costa del Mar Chillout" tvg-logo="https://www.tunedradios.com/static/radio/8842/logo/b3a973e0db205aae310f32a4ba90346b.webp" group-title="Radio",Costa del Mar Chillout
 https://radio4.cdm-radio.com:18020/stream-mp3-Chill
+
+#EXTINF:-1 tvg-name="DeepNova Radio" tvg-logo="https://deepnovaradio.com/wp-content/uploads/2025/05/deepnova-320.png" group-title="Radio",DeepNova Radio
+https://a8.asurahosting.com:8820/radio.mp3
